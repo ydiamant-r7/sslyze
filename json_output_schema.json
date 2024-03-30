@@ -2127,7 +2127,7 @@
       "type": "string"
     },
     "sslyze_version": {
-      "default": "6.0.0b0",
+      "default": "6.0.0",
       "title": "Sslyze Version",
       "type": "string"
     },
