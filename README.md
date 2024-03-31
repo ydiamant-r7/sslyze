@@ -39,7 +39,7 @@ $ python -m sslyze www.yahoo.com www.google.com "[2607:f8b0:400a:807::2004]:443"
 It can also be used via Docker:
 
 ```
-$ docker run --rm -it nablac0d3/sslyze:5.0.0 www.google.com
+$ docker run --rm -it nablac0d3/sslyze:6.0.0 www.google.com
 ```
 
 Lastly, a pre-compiled Windows executable can be downloaded from [the Releases
