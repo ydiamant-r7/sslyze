@@ -48,7 +48,9 @@ page](https://github.com/nabla-c0d3/sslyze/releases).
 Python API Documentation
 ------------------------
 
-Documentation for SSLyze's Python API is [available here][documentation].
+A sample script describing how to use the SSLyze's Python API is available at [./api_sample.py](https://github.com/nabla-c0d3/sslyze/blob/release/api_sample.py).
+
+Full documentation for SSLyze's Python API is [available here][documentation].
 
 Usage as a CI/CD step
 ---------------------
