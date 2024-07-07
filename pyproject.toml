@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "sslyze"
+version = "0.1.0"
+description = ""
+authors = ["Yoel Diamant <yoel_diamant@rapid7.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+nassl = "~5"
+cryptography = "~42"
+tls-parser = "~2"
+pydantic = ">=1.7,<3.0.0"
+pyopenssl = "~24"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
