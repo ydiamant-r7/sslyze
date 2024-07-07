@@ -102,7 +102,7 @@ setup(
         "cryptography>=42,<43",
         "tls-parser>=2,<3",
         "pydantic>=1.7,<3.0.0",
-        "pyOpenSSL>=23,<24",
+        "pyOpenSSL>=24,<25",
     ],
     # cx_freeze info for Windows builds with Python embedded
     options={"build_exe": {"packages": ["cffi", "cryptography"], "include_files": get_include_files()}},
