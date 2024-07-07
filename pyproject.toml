@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "sslyze"
-version = "0.1.0"
+version = "5.1.4"
 description = ""
 authors = ["Yoel Diamant <yoel_diamant@rapid7.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.9,<3.12"
 nassl = "~5"
 cryptography = "~42"
 tls-parser = "~2"
